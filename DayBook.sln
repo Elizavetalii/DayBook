@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayBook", "DayBook\DayBook.csproj", "{C7B2CFDC-D33D-42DF-8824-E8C5DE548418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B2CFDC-D33D-42DF-8824-E8C5DE548418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B2CFDC-D33D-42DF-8824-E8C5DE548418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B2CFDC-D33D-42DF-8824-E8C5DE548418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B2CFDC-D33D-42DF-8824-E8C5DE548418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70AE8C4F-0C18-42C7-B24A-9C44DF22EF94}
+	EndGlobalSection
+EndGlobal
